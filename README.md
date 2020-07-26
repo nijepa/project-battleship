@@ -5,3 +5,18 @@
 [![Generic badge](https://img.shields.io/badge/Live%20demo%20at-GitHub%20Pages-BLUEVIOLET.svg?style=plastic)](https://nijepa.github.io/project-battleship/)
 
 <hr>
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
